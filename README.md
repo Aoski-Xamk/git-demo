@@ -1,4 +1,4 @@
-# Git-demo
+# Git/GitHub-demo
 
 Git Demo kokeilua
 
@@ -9,3 +9,5 @@ Git Demo kokeilua
 * Bootstrap mukaan
 * Kissakuva etusivulle
 * Linkki Xamkin sivulle
+
+---
